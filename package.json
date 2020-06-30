@@ -2,7 +2,7 @@
   "name": "2020",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://revahack.github.io/2020/",
+  "homepage": "https://akashc777.github.io/HackReva2020/",
   "dependencies": {
     "@babel/core": "7.9.0",
     "@svgr/webpack": "4.3.3",
