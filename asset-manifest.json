@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/HackReva2020/static/css/main.b3162d6d.chunk.css",
+    "main.js": "/HackReva2020/static/js/main.2c7a3e01.chunk.js",
+    "main.js.map": "/HackReva2020/static/js/main.2c7a3e01.chunk.js.map",
+    "runtime-main.js": "/HackReva2020/static/js/runtime-main.e8039f32.js",
+    "runtime-main.js.map": "/HackReva2020/static/js/runtime-main.e8039f32.js.map",
+    "static/js/2.f4459fd4.chunk.js": "/HackReva2020/static/js/2.f4459fd4.chunk.js",
+    "static/js/2.f4459fd4.chunk.js.map": "/HackReva2020/static/js/2.f4459fd4.chunk.js.map",
+    "index.html": "/HackReva2020/index.html",
+    "precache-manifest.2bfc9630f7ff16407fb72b1a5e227c76.js": "/HackReva2020/precache-manifest.2bfc9630f7ff16407fb72b1a5e227c76.js",
+    "service-worker.js": "/HackReva2020/service-worker.js",
+    "static/css/main.b3162d6d.chunk.css.map": "/HackReva2020/static/css/main.b3162d6d.chunk.css.map",
+    "static/js/2.f4459fd4.chunk.js.LICENSE.txt": "/HackReva2020/static/js/2.f4459fd4.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/HackReva2020/static/media/paper.f8931e0a.png",
+    "static/media/akash.jpeg": "/HackReva2020/static/media/akash.ee7abbe7.jpeg",
+    "static/media/github.png": "/HackReva2020/static/media/github.4078211f.png",
+    "static/media/heart.svg": "/HackReva2020/static/media/heart.286695f0.svg",
+    "static/media/instagram.svg": "/HackReva2020/static/media/instagram.ef4f95b8.svg",
+    "static/media/linkedin.png": "/HackReva2020/static/media/linkedin.e180e730.png",
+    "static/media/telegram.png": "/HackReva2020/static/media/telegram.65720316.png",
+    "static/media/twitter.svg": "/HackReva2020/static/media/twitter.e438ebb2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8039f32.js",
+    "static/js/2.f4459fd4.chunk.js",
+    "static/css/main.b3162d6d.chunk.css",
+    "static/js/main.2c7a3e01.chunk.js"
+  ]
+}
