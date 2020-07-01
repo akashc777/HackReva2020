@@ -11,7 +11,7 @@ class Nav extends Component{
         <a href="#" class="logo">Reva Hack</a>
         <ul class="main-nav" id="js-menu">
             <li>
-                <a href=".section-faq" class="nav-links">About us</a>
+                <a href="#"class="nav-links">About us</a>
             </li>
             <li>
                 <a href="#" class="nav-links">Sponsors</a>
