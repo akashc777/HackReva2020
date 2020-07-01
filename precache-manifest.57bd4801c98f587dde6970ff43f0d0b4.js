@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "716ce6b096c8c63a06542ee28d39ac86",
+    "revision": "cc5672302a47583dd5fcb5b58eda3b95",
     "url": "/HackReva2020/index.html"
   },
   {
-    "revision": "de37b9c9d5300bcf55bf",
-    "url": "/HackReva2020/static/css/main.b3162d6d.chunk.css"
+    "revision": "22d20d77be28b3ca3379",
+    "url": "/HackReva2020/static/css/main.25a494f6.chunk.css"
   },
   {
-    "revision": "10ebd78a332fd718a6f3",
-    "url": "/HackReva2020/static/js/2.7c59b3bb.chunk.js"
+    "revision": "8baf2b89592ec97a66f7",
+    "url": "/HackReva2020/static/js/2.307259a1.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/HackReva2020/static/js/2.7c59b3bb.chunk.js.LICENSE.txt"
+    "url": "/HackReva2020/static/js/2.307259a1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "de37b9c9d5300bcf55bf",
-    "url": "/HackReva2020/static/js/main.86eef4e1.chunk.js"
+    "revision": "22d20d77be28b3ca3379",
+    "url": "/HackReva2020/static/js/main.b53a06a7.chunk.js"
   },
   {
     "revision": "22b4b6683a6a5b307e3b",
