@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/HackReva2020/static/css/main.b3162d6d.chunk.css",
-    "main.js": "/HackReva2020/static/js/main.2c7a3e01.chunk.js",
-    "main.js.map": "/HackReva2020/static/js/main.2c7a3e01.chunk.js.map",
-    "runtime-main.js": "/HackReva2020/static/js/runtime-main.e8039f32.js",
-    "runtime-main.js.map": "/HackReva2020/static/js/runtime-main.e8039f32.js.map",
-    "static/js/2.f4459fd4.chunk.js": "/HackReva2020/static/js/2.f4459fd4.chunk.js",
-    "static/js/2.f4459fd4.chunk.js.map": "/HackReva2020/static/js/2.f4459fd4.chunk.js.map",
+    "main.js": "/HackReva2020/static/js/main.86eef4e1.chunk.js",
+    "main.js.map": "/HackReva2020/static/js/main.86eef4e1.chunk.js.map",
+    "runtime-main.js": "/HackReva2020/static/js/runtime-main.b051bf50.js",
+    "runtime-main.js.map": "/HackReva2020/static/js/runtime-main.b051bf50.js.map",
+    "static/js/2.7c59b3bb.chunk.js": "/HackReva2020/static/js/2.7c59b3bb.chunk.js",
+    "static/js/2.7c59b3bb.chunk.js.map": "/HackReva2020/static/js/2.7c59b3bb.chunk.js.map",
     "index.html": "/HackReva2020/index.html",
-    "precache-manifest.2bfc9630f7ff16407fb72b1a5e227c76.js": "/HackReva2020/precache-manifest.2bfc9630f7ff16407fb72b1a5e227c76.js",
+    "precache-manifest.deec2984c5af343dbaa5250f69a4a9cc.js": "/HackReva2020/precache-manifest.deec2984c5af343dbaa5250f69a4a9cc.js",
     "service-worker.js": "/HackReva2020/service-worker.js",
     "static/css/main.b3162d6d.chunk.css.map": "/HackReva2020/static/css/main.b3162d6d.chunk.css.map",
-    "static/js/2.f4459fd4.chunk.js.LICENSE.txt": "/HackReva2020/static/js/2.f4459fd4.chunk.js.LICENSE.txt",
+    "static/js/2.7c59b3bb.chunk.js.LICENSE.txt": "/HackReva2020/static/js/2.7c59b3bb.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/HackReva2020/static/media/paper.f8931e0a.png",
     "static/media/akash.jpeg": "/HackReva2020/static/media/akash.ee7abbe7.jpeg",
     "static/media/github.png": "/HackReva2020/static/media/github.4078211f.png",
@@ -22,9 +22,9 @@
     "static/media/twitter.svg": "/HackReva2020/static/media/twitter.e438ebb2.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e8039f32.js",
-    "static/js/2.f4459fd4.chunk.js",
+    "static/js/runtime-main.b051bf50.js",
+    "static/js/2.7c59b3bb.chunk.js",
     "static/css/main.b3162d6d.chunk.css",
-    "static/js/main.2c7a3e01.chunk.js"
+    "static/js/main.86eef4e1.chunk.js"
   ]
 }
